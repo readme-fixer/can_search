@@ -2,7 +2,7 @@ CanSearch
 =========
 
 Allows you create common named_scopes and chain them together with #search and 
-#search_for.
+# search_for.
 
   class Topic
     belongs_to :forum
